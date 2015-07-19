@@ -10,4 +10,4 @@ The data set used for this project is: [Human Activity Recognition Using Smartph
 
 * run_analysis.R contains all the code to perform the analyses described in the 5 steps. They can be launched in RStudio by just importing the file.
 
-* The output of the 5th step is called averages.txt, and uploaded in the course project's form.
+* The output of the 5th step is called averages_of_data.txt, and uploaded in the course project's form.
