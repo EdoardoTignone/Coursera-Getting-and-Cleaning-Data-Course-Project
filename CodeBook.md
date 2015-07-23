@@ -28,5 +28,5 @@ stored in mean_and_std_features, a numeric vector used to extract the desired da
 
 * all_data merges x_data, y_data and subject_data in a big dataset.
 
-* Eventually, averages_data contains the relevant averages which will be later stored in a .txt file. 
+* Eventually, averages_of_data contains the relevant averages which will be later stored in a .txt file. 
 ddply() from the plyr package is used to apply colMeans() and ease the development.
